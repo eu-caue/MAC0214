@@ -4,7 +4,7 @@ Esse repositório servirá para acompanhar e registrar meu progresso nos estudos
 
 ## Total de Horas
 
-**162 horas** dedicadas entre resolução e *upsolving*, divididas entre contests oficiais, seletivas internas, e simulados em grupo.
+**130 horas** dedicadas entre resolução e *upsolving*, divididas entre contests oficiais, seletivas internas, e simulados em grupo.
 Para todos os contests, com exceção de casos apontados, considerei o tempo de duração na hora, e a mesma quantidade em upsolving. Assim, um contest de 5 horas levou mais 5 horas de upsolving. Em alguns casos foram mais, mas não contabilizei para não complicar.
 Meu usuário do Codeforces é eu_caue, o nome da minha equipe geralmente é "Here's my number: 998244353, so call me maybe"
 
